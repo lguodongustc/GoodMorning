@@ -1,0 +1,21 @@
+{
+    "app_id": "wx2463d50c47a17f08",
+    "app_secret": "7f440161d9a6f01b13794ff6066079e9",
+    "template_id": "_9UcBmsdWY8fekDyobbkTinWsLYH6jsntLWAcZSlP_I",
+    "user": [
+        "ot7qO2JR28tYPkRLHN6APVnolUEc",
+        "ot7qO2GGcut5feiHTnlmU0QlWo88"
+    ],
+    "province": "河北",
+    "city": "石家庄",
+    "birthday1": {
+        "name": "AA",
+        "birthday": "r2001-01-01"
+    },
+    "birthday2": {
+        "name": "BB",
+        "birthday": "2000-01-01"
+    },
+    "love_date": "2022-06-26"
+}
+
